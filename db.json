@@ -1,24 +1,26 @@
-[
+{
+  "donors": [
     {
-        "id": 1,
-        "name": "Alexandre Carrega",
-        "email": "alex@sandbox.com.br",
-        "phone": "551120010001",
-        "amount": 300.00
+      "id": 1,
+      "name": "Alexandre Carrega",
+      "email": "alex@sandbox.com.br",
+      "phone": "551120010001",
+      "amount": 300.00
     },
     {
-        "id": 2,
-        "name": "Eduardo Romero",
-        "email": "dudu@sandbox.com.br",
-        "phone": "551120010002",
-        "amount": 0.00
+      "id": 2,
+      "name": "Eduardo Romero",
+      "email": "dudu@sandbox.com.br",
+      "phone": "551120010002",
+      "amount": 0.00
     },
     {
-        "id": 3,
-        "name": "Vitor Siqueira",
-        "email": "vitor@sandbox.com.br",
-        "phone": "551120010003",
-        "amount": 500.00
+      "id": 3,
+      "name": "Vitor Siqueira",
+      "email": "vitor@sandbox.com.br",
+      "phone": "551120010003",
+      "amount": 500.00
     }
-]
+  ]
+}
 
