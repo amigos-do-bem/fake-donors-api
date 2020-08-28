@@ -5,21 +5,28 @@
       "name": "Alexandre Carrega",
       "email": "alex@sandbox.com.br",
       "phone": "551120010001",
-      "amount": 300.00
+      "donation" : {
+        "status": "rejected",
+        "amount": 300.00,
+        "payment_url": "https://sandbox-app.vindi.com.br/customer/bills/3092575?token=eee03bb3-c44a-49ad-9b2a-6df37bfcfcfa"
+      }
     },
     {
       "id": 2,
       "name": "Eduardo Romero",
       "email": "dudu@sandbox.com.br",
       "phone": "551120010002",
-      "amount": 0.00
+      "donation" : null
     },
     {
       "id": 3,
       "name": "Vitor Siqueira",
       "email": "vitor@sandbox.com.br",
       "phone": "551120010003",
-      "amount": 500.00
+      "donation" : {
+        "status": "paid",
+        "amount": 300.00
+      }
     }
   ]
 }
